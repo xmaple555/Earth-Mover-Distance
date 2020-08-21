@@ -1,0 +1,326 @@
+Q=阿拉伯聯盟國家 P=中東與北非地區 are similar
+Q=阿拉伯聯盟國家 P=中東與北非地區（不包括高收入） are similar
+Q=阿拉伯聯盟國家 P=中東與北非地區 (IBRD與IDA) are similar
+Q=美屬薩摩亞 P=關島 are similar
+Q=澳大利亞 P=歐洲與中亞地區 are similar
+Q=澳大利亞 P=歐洲貨幣聯盟 are similar
+Q=澳大利亞 P=西班牙 are similar
+Q=澳大利亞 P=歐洲聯盟 are similar
+Q=澳大利亞 P=英國 are similar
+Q=澳大利亞 P=史瓦濟蘭 are similar
+Q=奧地利 P=西班牙 are similar
+Q=奧地利 P=英國 are similar
+Q=奧地利 P=高收入國家 are similar
+Q=奧地利 P=義大利 are similar
+Q=奧地利 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=奧地利 P=其他小國 are similar
+Q=奧地利 P=太平洋島國 are similar
+Q=奧地利 P=人口紅利之後 are similar
+Q=奧地利 P=拉丁美洲與加勒比海地區 (IBRD與IDA) are similar
+Q=亞塞拜然 P=格魯吉亞 are similar
+Q=保加利亞 P=賽普勒斯 are similar
+Q=保加利亞 P=捷克共和國 are similar
+Q=保加利亞 P=芬蘭 are similar
+Q=保加利亞 P=匈牙利 are similar
+Q=保加利亞 P=馬爾他 are similar
+Q=保加利亞 P=挪威 are similar
+Q=巴林 P=捷克共和國 are similar
+Q=巴林 P=法國 are similar
+Q=中歐和波羅的海 P=哥斯大黎加 are similar
+Q=中歐和波羅的海 P=加勒比小國 are similar
+Q=中歐和波羅的海 P=賽普勒斯 are similar
+Q=中歐和波羅的海 P=芬蘭 are similar
+Q=哥斯大黎加 P=中歐和波羅的海 are similar
+Q=哥斯大黎加 P=加勒比小國 are similar
+Q=哥斯大黎加 P=歐洲聯盟 are similar
+Q=哥斯大黎加 P=小國 are similar
+Q=加勒比小國 P=中歐和波羅的海 are similar
+Q=加勒比小國 P=哥斯大黎加 are similar
+Q=加勒比小國 P=賽普勒斯 are similar
+Q=加勒比小國 P=匈牙利 are similar
+Q=賽普勒斯 P=保加利亞 are similar
+Q=賽普勒斯 P=中歐和波羅的海 are similar
+Q=賽普勒斯 P=加勒比小國 are similar
+Q=賽普勒斯 P=芬蘭 are similar
+Q=賽普勒斯 P=馬爾他 are similar
+Q=捷克共和國 P=保加利亞 are similar
+Q=捷克共和國 P=巴林 are similar
+Q=捷克共和國 P=西班牙 are similar
+Q=捷克共和國 P=法國 are similar
+Q=捷克共和國 P=匈牙利 are similar
+Q=捷克共和國 P=義大利 are similar
+Q=捷克共和國 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=捷克共和國 P=馬爾他 are similar
+Q=捷克共和國 P=挪威 are similar
+Q=阿爾及利亞 P=東亞與太平洋地區（不包括高收入） are similar
+Q=阿爾及利亞 P=東亞與太平洋地區 (IBRD與IDA) are similar
+Q=東亞與太平洋地區（不包括高收入） P=阿爾及利亞 are similar
+Q=東亞與太平洋地區（不包括高收入） P=東亞與太平洋地區 (IBRD與IDA) are similar
+Q=早人口紅利 P=IDA總 are similar
+Q=早人口紅利 P=中低等收入國家 are similar
+Q=早人口紅利 P=中東與北非地區（不包括高收入） are similar
+Q=早人口紅利 P=中東與北非地區 (IBRD與IDA) are similar
+Q=東亞與太平洋地區 P=只有IBRD are similar
+Q=東亞與太平洋地區 P=中等收入國家 are similar
+Q=東亞與太平洋地區 P=世界 are similar
+Q=歐洲與中亞地區（不包括高收入） P=歐洲與中亞地區 (IBRD與IDA) are similar
+Q=歐洲與中亞地區 P=澳大利亞 are similar
+Q=歐洲與中亞地區 P=歐洲貨幣聯盟 are similar
+Q=歐洲與中亞地區 P=歐洲聯盟 are similar
+Q=歐洲與中亞地區 P=英國 are similar
+Q=歐洲與中亞地區 P=高收入國家 are similar
+Q=歐洲與中亞地區 P=匈牙利 are similar
+Q=歐洲與中亞地區 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=歐洲與中亞地區 P=拉丁美洲與加勒比海地區 are similar
+Q=歐洲與中亞地區 P=其他小國 are similar
+Q=歐洲與中亞地區 P=太平洋島國 are similar
+Q=歐洲與中亞地區 P=人口紅利之後 are similar
+Q=歐洲與中亞地區 P=小國 are similar
+Q=歐洲與中亞地區 P=拉丁美洲與加勒比海地區 (IBRD與IDA) are similar
+Q=歐洲貨幣聯盟 P=澳大利亞 are similar
+Q=歐洲貨幣聯盟 P=歐洲與中亞地區 are similar
+Q=歐洲貨幣聯盟 P=歐洲聯盟 are similar
+Q=歐洲貨幣聯盟 P=匈牙利 are similar
+Q=歐洲貨幣聯盟 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=歐洲貨幣聯盟 P=拉丁美洲與加勒比海地區 are similar
+Q=歐洲貨幣聯盟 P=其他小國 are similar
+Q=歐洲貨幣聯盟 P=小國 are similar
+Q=歐洲貨幣聯盟 P=拉丁美洲與加勒比海地區 (IBRD與IDA) are similar
+Q=西班牙 P=澳大利亞 are similar
+Q=西班牙 P=奧地利 are similar
+Q=西班牙 P=捷克共和國 are similar
+Q=西班牙 P=英國 are similar
+Q=西班牙 P=匈牙利 are similar
+Q=歐洲聯盟 P=澳大利亞 are similar
+Q=歐洲聯盟 P=哥斯大黎加 are similar
+Q=歐洲聯盟 P=歐洲與中亞地區 are similar
+Q=歐洲聯盟 P=歐洲貨幣聯盟 are similar
+Q=歐洲聯盟 P=匈牙利 are similar
+Q=歐洲聯盟 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=歐洲聯盟 P=拉丁美洲與加勒比海地區 are similar
+Q=歐洲聯盟 P=其他小國 are similar
+Q=歐洲聯盟 P=小國 are similar
+Q=歐洲聯盟 P=拉丁美洲與加勒比海地區 (IBRD與IDA) are similar
+Q=脆弱和受衝突影響的情況下 P=重債窮國 (HIPC) are similar
+Q=脆弱和受衝突影響的情況下 P=低收入國家 are similar
+Q=脆弱和受衝突影響的情況下 P=預人口紅利 are similar
+Q=芬蘭 P=保加利亞 are similar
+Q=芬蘭 P=中歐和波羅的海 are similar
+Q=芬蘭 P=賽普勒斯 are similar
+Q=法國 P=巴林 are similar
+Q=法國 P=捷克共和國 are similar
+Q=法國 P=挪威 are similar
+Q=英國 P=澳大利亞 are similar
+Q=英國 P=奧地利 are similar
+Q=英國 P=歐洲與中亞地區 are similar
+Q=英國 P=西班牙 are similar
+Q=英國 P=高收入國家 are similar
+Q=英國 P=其他小國 are similar
+Q=英國 P=人口紅利之後 are similar
+Q=格魯吉亞 P=亞塞拜然 are similar
+Q=希臘 P=愛爾蘭 are similar
+Q=希臘 P=荷蘭 are similar
+Q=關島 P=美屬薩摩亞 are similar
+Q=關島 P=美屬維爾京群島 are similar
+Q=高收入國家 P=奧地利 are similar
+Q=高收入國家 P=歐洲與中亞地區 are similar
+Q=高收入國家 P=英國 are similar
+Q=高收入國家 P=其他小國 are similar
+Q=高收入國家 P=太平洋島國 are similar
+Q=高收入國家 P=人口紅利之後 are similar
+Q=重債窮國 (HIPC) P=脆弱和受衝突影響的情況下 are similar
+Q=重債窮國 (HIPC) P=低收入國家 are similar
+Q=重債窮國 (HIPC) P=預人口紅利 are similar
+Q=克羅埃西亞 P=斯洛伐克共和國 are similar
+Q=克羅埃西亞 P=斯洛維尼亞 are similar
+Q=匈牙利 P=保加利亞 are similar
+Q=匈牙利 P=加勒比小國 are similar
+Q=匈牙利 P=捷克共和國 are similar
+Q=匈牙利 P=歐洲與中亞地區 are similar
+Q=匈牙利 P=歐洲貨幣聯盟 are similar
+Q=匈牙利 P=西班牙 are similar
+Q=匈牙利 P=歐洲聯盟 are similar
+Q=匈牙利 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=匈牙利 P=拉丁美洲與加勒比海地區 are similar
+Q=匈牙利 P=馬爾他 are similar
+Q=匈牙利 P=挪威 are similar
+Q=匈牙利 P=其他小國 are similar
+Q=匈牙利 P=葡萄牙 are similar
+Q=匈牙利 P=小國 are similar
+Q=匈牙利 P=拉丁美洲與加勒比海地區 (IBRD與IDA) are similar
+Q=只有IBRD P=東亞與太平洋地區 are similar
+Q=只有IBRD P=IBRD與IDA are similar
+Q=只有IBRD P=中低收入國家 are similar
+Q=只有IBRD P=中等收入國家 are similar
+Q=只有IBRD P=世界 are similar
+Q=IBRD與IDA P=只有IBRD are similar
+Q=IBRD與IDA P=中低收入國家 are similar
+Q=IBRD與IDA P=中等收入國家 are similar
+Q=IDA總 P=早人口紅利 are similar
+Q=IDA總 P=只有IDA are similar
+Q=IDA總 P=中低等收入國家 are similar
+Q=只有IDA P=IDA總 are similar
+Q=只有IDA P=預人口紅利 are similar
+Q=愛爾蘭 P=希臘 are similar
+Q=愛爾蘭 P=盧森堡 are similar
+Q=愛爾蘭 P=荷蘭 are similar
+Q=義大利 P=奧地利 are similar
+Q=義大利 P=捷克共和國 are similar
+Q=義大利 P=模里西斯 are similar
+Q=義大利 P=挪威 are similar
+Q=吉爾吉斯斯坦 P=莫爾達瓦 are similar
+Q=科威特 P=北美 are similar
+Q=科威特 P=卡達 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=奧地利 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=捷克共和國 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=歐洲與中亞地區 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=歐洲貨幣聯盟 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=歐洲聯盟 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=匈牙利 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=拉丁美洲與加勒比海地區 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=挪威 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=其他小國 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=太平洋島國 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=小國 are similar
+Q=拉丁美洲與加勒比海地區（不包括高收入） P=拉丁美洲與加勒比海地區 (IBRD與IDA) are similar
+Q=拉丁美洲與加勒比海地區 P=歐洲與中亞地區 are similar
+Q=拉丁美洲與加勒比海地區 P=歐洲貨幣聯盟 are similar
+Q=拉丁美洲與加勒比海地區 P=歐洲聯盟 are similar
+Q=拉丁美洲與加勒比海地區 P=匈牙利 are similar
+Q=拉丁美洲與加勒比海地區 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=拉丁美洲與加勒比海地區 P=挪威 are similar
+Q=拉丁美洲與加勒比海地區 P=其他小國 are similar
+Q=拉丁美洲與加勒比海地區 P=小國 are similar
+Q=拉丁美洲與加勒比海地區 P=拉丁美洲與加勒比海地區 (IBRD與IDA) are similar
+Q=低收入國家 P=脆弱和受衝突影響的情況下 are similar
+Q=低收入國家 P=重債窮國 (HIPC) are similar
+Q=列支敦士登 P=黑山 are similar
+Q=中低等收入國家 P=早人口紅利 are similar
+Q=中低等收入國家 P=IDA總 are similar
+Q=中低等收入國家 P=中東與北非地區 (IBRD與IDA) are similar
+Q=中低收入國家 P=只有IBRD are similar
+Q=中低收入國家 P=IBRD與IDA are similar
+Q=中低收入國家 P=中等收入國家 are similar
+Q=盧森堡 P=愛爾蘭 are similar
+Q=莫爾達瓦 P=吉爾吉斯斯坦 are similar
+Q=中東與北非地區 P=阿拉伯聯盟國家 are similar
+Q=中東與北非地區 P=中東與北非地區（不包括高收入） are similar
+Q=中東與北非地區 P=中東與北非地區 (IBRD與IDA) are similar
+Q=中等收入國家 P=東亞與太平洋地區 are similar
+Q=中等收入國家 P=只有IBRD are similar
+Q=中等收入國家 P=IBRD與IDA are similar
+Q=中等收入國家 P=中低收入國家 are similar
+Q=中等收入國家 P=世界 are similar
+Q=馬爾他 P=保加利亞 are similar
+Q=馬爾他 P=賽普勒斯 are similar
+Q=馬爾他 P=捷克共和國 are similar
+Q=馬爾他 P=匈牙利 are similar
+Q=馬爾他 P=挪威 are similar
+Q=中東與北非地區（不包括高收入） P=阿拉伯聯盟國家 are similar
+Q=中東與北非地區（不包括高收入） P=早人口紅利 are similar
+Q=中東與北非地區（不包括高收入） P=中東與北非地區 are similar
+Q=中東與北非地區（不包括高收入） P=中東與北非地區 (IBRD與IDA) are similar
+Q=黑山 P=列支敦士登 are similar
+Q=模里西斯 P=義大利 are similar
+Q=模里西斯 P=經合組織成員 are similar
+Q=模里西斯 P=卡達 are similar
+Q=北美 P=科威特 are similar
+Q=北美 P=卡達 are similar
+Q=北美 P=中高等收入國家 are similar
+Q=荷蘭 P=希臘 are similar
+Q=荷蘭 P=愛爾蘭 are similar
+Q=挪威 P=保加利亞 are similar
+Q=挪威 P=捷克共和國 are similar
+Q=挪威 P=法國 are similar
+Q=挪威 P=匈牙利 are similar
+Q=挪威 P=義大利 are similar
+Q=挪威 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=挪威 P=拉丁美洲與加勒比海地區 are similar
+Q=挪威 P=馬爾他 are similar
+Q=挪威 P=其他小國 are similar
+Q=挪威 P=拉丁美洲與加勒比海地區 (IBRD與IDA) are similar
+Q=經合組織成員 P=模里西斯 are similar
+Q=其他小國 P=奧地利 are similar
+Q=其他小國 P=歐洲與中亞地區 are similar
+Q=其他小國 P=歐洲貨幣聯盟 are similar
+Q=其他小國 P=歐洲聯盟 are similar
+Q=其他小國 P=英國 are similar
+Q=其他小國 P=高收入國家 are similar
+Q=其他小國 P=匈牙利 are similar
+Q=其他小國 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=其他小國 P=拉丁美洲與加勒比海地區 are similar
+Q=其他小國 P=挪威 are similar
+Q=其他小國 P=太平洋島國 are similar
+Q=其他小國 P=人口紅利之後 are similar
+Q=其他小國 P=小國 are similar
+Q=其他小國 P=拉丁美洲與加勒比海地區 (IBRD與IDA) are similar
+Q=預人口紅利 P=脆弱和受衝突影響的情況下 are similar
+Q=預人口紅利 P=重債窮國 (HIPC) are similar
+Q=預人口紅利 P=只有IDA are similar
+Q=葡萄牙 P=匈牙利 are similar
+Q=約旦河西岸和加沙 P=烏克蘭 are similar
+Q=太平洋島國 P=奧地利 are similar
+Q=太平洋島國 P=歐洲與中亞地區 are similar
+Q=太平洋島國 P=高收入國家 are similar
+Q=太平洋島國 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=太平洋島國 P=其他小國 are similar
+Q=太平洋島國 P=人口紅利之後 are similar
+Q=人口紅利之後 P=奧地利 are similar
+Q=人口紅利之後 P=歐洲與中亞地區 are similar
+Q=人口紅利之後 P=英國 are similar
+Q=人口紅利之後 P=高收入國家 are similar
+Q=人口紅利之後 P=其他小國 are similar
+Q=人口紅利之後 P=太平洋島國 are similar
+Q=卡達 P=科威特 are similar
+Q=卡達 P=模里西斯 are similar
+Q=卡達 P=北美 are similar
+Q=南亞 P=南亞 (IBRD與IDA) are similar
+Q=南亞 P=烏干達 are similar
+Q=撒哈拉以南非洲地區（不包括高收入） P=撒哈拉以南非洲地區 are similar
+Q=撒哈拉以南非洲地區（不包括高收入） P=撒哈拉以南非洲地區 (IBRD與IDA) are similar
+Q=撒哈拉以南非洲地區 P=撒哈拉以南非洲地區（不包括高收入） are similar
+Q=撒哈拉以南非洲地區 P=撒哈拉以南非洲地區 (IBRD與IDA) are similar
+Q=小國 P=哥斯大黎加 are similar
+Q=小國 P=歐洲與中亞地區 are similar
+Q=小國 P=歐洲貨幣聯盟 are similar
+Q=小國 P=歐洲聯盟 are similar
+Q=小國 P=匈牙利 are similar
+Q=小國 P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=小國 P=拉丁美洲與加勒比海地區 are similar
+Q=小國 P=其他小國 are similar
+Q=小國 P=拉丁美洲與加勒比海地區 (IBRD與IDA) are similar
+Q=斯洛伐克共和國 P=克羅埃西亞 are similar
+Q=斯洛維尼亞 P=克羅埃西亞 are similar
+Q=史瓦濟蘭 P=澳大利亞 are similar
+Q=東亞與太平洋地區 (IBRD與IDA) P=阿爾及利亞 are similar
+Q=東亞與太平洋地區 (IBRD與IDA) P=東亞與太平洋地區（不包括高收入） are similar
+Q=歐洲與中亞地區 (IBRD與IDA) P=歐洲與中亞地區（不包括高收入） are similar
+Q=拉丁美洲與加勒比海地區 (IBRD與IDA) P=奧地利 are similar
+Q=拉丁美洲與加勒比海地區 (IBRD與IDA) P=歐洲與中亞地區 are similar
+Q=拉丁美洲與加勒比海地區 (IBRD與IDA) P=歐洲貨幣聯盟 are similar
+Q=拉丁美洲與加勒比海地區 (IBRD與IDA) P=歐洲聯盟 are similar
+Q=拉丁美洲與加勒比海地區 (IBRD與IDA) P=匈牙利 are similar
+Q=拉丁美洲與加勒比海地區 (IBRD與IDA) P=拉丁美洲與加勒比海地區（不包括高收入） are similar
+Q=拉丁美洲與加勒比海地區 (IBRD與IDA) P=拉丁美洲與加勒比海地區 are similar
+Q=拉丁美洲與加勒比海地區 (IBRD與IDA) P=挪威 are similar
+Q=拉丁美洲與加勒比海地區 (IBRD與IDA) P=其他小國 are similar
+Q=拉丁美洲與加勒比海地區 (IBRD與IDA) P=小國 are similar
+Q=中東與北非地區 (IBRD與IDA) P=阿拉伯聯盟國家 are similar
+Q=中東與北非地區 (IBRD與IDA) P=早人口紅利 are similar
+Q=中東與北非地區 (IBRD與IDA) P=中低等收入國家 are similar
+Q=中東與北非地區 (IBRD與IDA) P=中東與北非地區 are similar
+Q=中東與北非地區 (IBRD與IDA) P=中東與北非地區（不包括高收入） are similar
+Q=南亞 (IBRD與IDA) P=南亞 are similar
+Q=南亞 (IBRD與IDA) P=烏干達 are similar
+Q=撒哈拉以南非洲地區 (IBRD與IDA) P=撒哈拉以南非洲地區（不包括高收入） are similar
+Q=撒哈拉以南非洲地區 (IBRD與IDA) P=撒哈拉以南非洲地區 are similar
+Q=烏干達 P=南亞 are similar
+Q=烏干達 P=南亞 (IBRD與IDA) are similar
+Q=烏克蘭 P=約旦河西岸和加沙 are similar
+Q=中高等收入國家 P=北美 are similar
+Q=美屬維爾京群島 P=關島 are similar
+Q=世界 P=東亞與太平洋地區 are similar
+Q=世界 P=只有IBRD are similar
+Q=世界 P=中等收入國家 are similar
+after pruned,number of performance of EMD:  1136
+before pruned,number of performance of EMD: 63756
