@@ -2,7 +2,7 @@
 B10602038 洪宏捷
 
 參考文獻
-[1]: https://en.wikipedia.org/wiki/Earth_mover%27s_distance
+[1]: https://en.wikipedia.org/wiki/Earth_mover%27s_distance\n
 
 [2]: https://ai.stanford.edu/~rubner/emd/default.htm
 
